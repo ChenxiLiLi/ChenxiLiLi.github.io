@@ -1,11 +1,16 @@
----
-title: friends.json
-date: 2020-02-21 14:52:53
-tags:
----
 [{
-    "name": "直到世界的尽头",
-    "artist": "AnimeVibe",
-    "url": "http://bd.kuwo.cn/play_detail/5075468",
-    "cover": "http://img3.kuwo.cn/star/starheads/300/77/67/554544542.jpg"
+	"name": "五月雨变奏电音",
+	"artist": "AnimeVibe",
+	"url": "http://static.blinkfox.com/music1.mp3",
+	"cover": "http://static.blinkfox.com/music-cover1.png"
+}, {
+	"name": "Take me hand",
+	"artist": "DAISHI DANCE,Cecile Corbel",
+	"url": "http://static.blinkfox.com/music2.mp3",
+	"cover": "http://static.blinkfox.com/music-cover2.png"
+}, {
+	"name": "Shape of You",
+	"artist": "J.Fla",
+	"url": "http://static.blinkfox.com/music3.mp3",
+	"cover": "http://static.blinkfox.com/music-cover3.png"
 }]
