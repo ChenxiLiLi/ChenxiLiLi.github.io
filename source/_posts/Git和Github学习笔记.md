@@ -52,11 +52,11 @@ $ git reflog
 
 #### 5、工作区和暂存区
 
-![image-20200221104235136](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20200221104235136.png)
+![git-add](D:\git\repository\MyBlog\source\images\gitadd.png)
 
 ​		***：  git add命令将文件从工作区添加到版本库的stage暂存区。**
 
-![image-20200221104335569](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20200221104335569.png)
+![git-commit](D:\git\repository\MyBlog\source\images\gitcommit.png)
 
 ​		 ***：git commit命令提交更改的内容，将暂存区的所有文件提交到当前的分支上。**
 
@@ -105,5 +105,5 @@ $ git clone git@github.com:ChenxiLiLi/ChenxiLiLi.github.io.git Clone
 
 
 
-[曦之仔个人博客][https://chenxilili.github.io/]
+https://chenxilili.github.io
 
