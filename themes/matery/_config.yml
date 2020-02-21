@@ -19,9 +19,9 @@ menu:
   Contact:
     url: /contact
     icon: fas fa-comments
-  Friends:
-    url: /friends
-    icon: fas fa-address-book
+  #Friends:
+  #  url: /friends
+  #  icon: fas fa-address-book
   # 二级菜单写法如下
   #Medias:
   #  icon: fas fa-list
@@ -64,8 +64,8 @@ cover:
 # index page dream text,
 # 配置首页显示"梦想"的语句.
 dream:
-  enable: true
-  showTitle: true
+  enable: false
+  showTitle: false
   title: 我的梦想
   text: 不是每个人都应该像我这样去建造一座水晶大教堂，但是每个人都应该拥有自己的梦想，设计自己的梦想，追求自己的梦想，实现自己的梦想。梦想是生命的灵魂，是心灵的灯塔，是引导人走向成功的信仰。有了崇高的梦想，只要矢志不渝地追求，梦想就会成为现实，奋斗就会变成壮举，生命就会创造奇迹。——罗伯·舒乐
 
@@ -80,7 +80,7 @@ music:
   theme: '#42b983'
   loop: 'all' # 音频循环播放, 可选值: 'all', 'one', 'none'
   order: 'list' # 音频循环顺序, 可选值: 'list', 'random'
-  preload: 'auto' # 预加载，可选值: 'none', 'metadata', 'auto'
+  preload: 'none' # 预加载，可选值: 'none', 'metadata', 'auto'
   volume: 0.7 # 默认音量，请注意播放器会记忆用户设置，用户手动设置音量后默认音量即失效
   listFolded: false # 列表默认折叠
   listMaxHeight: #列表最大高度
@@ -88,10 +88,10 @@ music:
 # Whether to display the videos.
 # 是否在首页显示视频.
 video:
-  enable: false
+  enable: true
   showTitle: true
   title: 精彩视频
-  url: # 必填
+  url: https://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4# 必填
   pic:
   thumbnails:
   height: # 如：400
@@ -127,13 +127,13 @@ indexbtn:
 # icon/button will not show up if you leave the corresponding socialLink empty
 # 首页 banner 中的第二行个人信息配置，留空即不启用
 socialLink:
-  github:  https://github.com/blinkfox
-  email: 1181062873@qq.com
-  facebook: # https://www.facebook.com/xxx
-  twitter: # https://twitter.com/xxx
-  qq: 1181062873
-  weibo: # https://weibo.com/xxx
-  zhihu: # https://www.zhihu.com/xxx
+  github:  https://chenxilili.github.io/
+  email: 416595479@qq.com
+  #facebook: # https://www.facebook.com/xxx
+  #twitter: # https://twitter.com/xxx
+  qq: 416595479
+  #weibo: # https://weibo.com/xxx
+  #zhihu: # https://www.zhihu.com/xxx
   rss: true # true、false
 
 # Whether to activate the Post TOC, and Configure which title types are supported by TOC support.
@@ -149,7 +149,7 @@ toc:
 # 代码块相关
 code:
   lang: true # 代码块是否显示名称
-  copy: true # 代码块是否可复制
+  copy: false # 代码块是否可复制
   shrink: true # 代码块是否可以收缩
   break: false # 代码是否折行
 
