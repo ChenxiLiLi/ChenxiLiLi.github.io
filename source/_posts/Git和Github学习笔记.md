@@ -52,11 +52,11 @@ $ git reflog
 
 #### 5、工作区和暂存区
 
-![git-add](D:\git\repository\MyBlog\source\images\gitadd.png)
+![git-add](/images/gitadd.png)
 
 ​		***：  git add命令将文件从工作区添加到版本库的stage暂存区。**
 
-![git-commit](D:\git\repository\MyBlog\source\images\gitcommit.png)
+![git-commit](/images/gitcommit.png)
 
 ​		 ***：git commit命令提交更改的内容，将暂存区的所有文件提交到当前的分支上。**
 
