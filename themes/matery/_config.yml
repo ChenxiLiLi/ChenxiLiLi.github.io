@@ -74,7 +74,7 @@ dream:
 music:
   enable: true
   showTitle: true
-  title: 听听音乐
+  title: listening to Music
   fixed: false # 开启吸底模式
   autoplay: false # 是否自动播放
   theme: '#42b983'
@@ -90,7 +90,7 @@ music:
 video:
   enable: true
   showTitle: true
-  title: see your life
+  title: Preference for Basketball
   url: https://www.bilibili.com/video/av21034978 # 必填
   pic:
   thumbnails:
