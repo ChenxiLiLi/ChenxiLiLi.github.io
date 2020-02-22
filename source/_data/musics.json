@@ -1,21 +1,27 @@
 [{
-	"name": "五月雨变奏电音",
-	"artist": "AnimeVibe",
-	"url": "http://static.blinkfox.com/music1.mp3",
-	"cover": "http://static.blinkfox.com/music-cover1.png"
-}, {
-	"name": "Take me hand",
-	"artist": "DAISHI DANCE,Cecile Corbel",
-	"url": "http://static.blinkfox.com/music2.mp3",
-	"cover": "http://static.blinkfox.com/music-cover2.png"
-}, {
-	"name": "Shape of You",
-	"artist": "J.Fla",
-	"url": "http://static.blinkfox.com/music3.mp3",
-	"cover": "http://static.blinkfox.com/music-cover3.png"
-}, {
 	"name": "世界が终るまでは…",
 	"artist": "WANDS乐队",
 	"url": "https://sharefs.yun.kugou.com/202002221210/f59608329ab50ef685c8ead440eba9d5/G143/M09/05/15/b5QEAFvIs9CAPCopABZ8KGhiwL0853.mp3",
-	"cover": "http://img3.kuwo.cn/star/starheads/300/77/67/554544542.jpg"
+	"cover": "http://img3.kuwo.cn/star/starheads/300/77/67/554544542.jpg"	
+}, {
+	"name": "煌めく瞬間に捕われて",
+	"artist": "MANISH",
+	"url": "http://m10.music.126.net/20200222132828/f408a325b349e3c4075fd7e28d14fd09/ymusic/ec37/ea0d/c9dd/11b22b7521be4cd76ba2f8b3eb11a0ec.mp3",
+	"cover": "http://p2.music.126.net/AXgj0N1gLre7wX_T5aJwnw==/5649290743583112.jpg?param=300x300"
+	
+}, {
+	"name": "あなただけ見つめてる",
+	"artist": "大黑摩季",
+	"url": "http://m10.music.126.net/20200222133443/d1fa620b0f1a8fb327eb9fbfa92b5190/ymusic/eaec/2fc3/8906/932fc9c8b55495765fa7eaa6ed409e4d.mp3",
+	"cover": "http://p1.music.126.net/UtHgWKjp6mANCa6C2IR7nw==/19045740416543667.jpg?param=300x300"	
+}, {
+	"name": "「名探偵コナン」~メインテーマ",
+	"artist": "大野克夫",
+	"url": "http://m10.music.126.net/20200222133933/b282c31a0c7a950f43a009e1a1b78058/ymusic/e9ae/a835/f0bf/b84083a9c251f893d6f02c68623c14a6.mp3",
+	"cover": "https://tse2-mm.cn.bing.net/th/id/OIP.v1ohDOL92GShXx8q3L0keAHaEL?w=300&h=169&c=7&o=5&pid=1.7"
+}, {
+	"name": "オセンチな歩美"
+	"artist": "大野克夫"
+	"url": "http://m10.music.126.net/20200222134425/85ec7a0d94e55f6e102a4136778c44c3/ymusic/ad32/bc8a/0476/89bdd7e7ec995ca7227cb090672517c6.mp3"
+	"cover": "https://tse3-mm.cn.bing.net/th/id/OIP.QybM1qE4F59EYsRWaq42jAHaEo?w=257&h=160&c=7&o=5&pid=1.7"
 }]
