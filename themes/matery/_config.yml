@@ -74,7 +74,7 @@ dream:
 music:
   enable: true
   showTitle: true
-  title: listening to Music
+  title: Listening to Music
   fixed: false # 开启吸底模式
   autoplay: true # 是否自动播放
   theme: '#542674'
