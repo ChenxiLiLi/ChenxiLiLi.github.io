@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 温文如玉
+title: C曦小哥
 subtitle: '温文如玉'
 description: '用指尖编织世界'
 keywords:
@@ -17,9 +17,9 @@ url: https://chenxilili.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
-pretty_urls:
-  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
-  trailing_html: true # Set to false to remove trailing '.html' from permalinks
+# pretty_urls:
+# trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
+# trailing_html: true # Set to false to remove trailing '.html' from permalinks
 
 # Directory
 source_dir: source
@@ -73,7 +73,7 @@ tag_map:
 
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
-meta_generator: true
+# meta_generator: true
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
