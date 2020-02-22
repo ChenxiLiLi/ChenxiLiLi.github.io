@@ -91,8 +91,8 @@ video:
   enable: true
   showTitle: true
   title: Preference for Basketball
-  url: https://www.bilibili.com/video/av21034978 # 必填
-  pic:
+  url: https://lc-0OwJ6sYh.cn-e1.lcfile.com/6208c0e6643e7bcf94d0/yunYun_xiaoYan.mp4 # 必填
+  pic: https://lc-0OwJ6sYh.cn-e1.lcfile.com/9d3906c7d21e8dcf399f/yunYun.jpg
   thumbnails:
   height: # 如：400
   autoplay: true # 是否自动播放
