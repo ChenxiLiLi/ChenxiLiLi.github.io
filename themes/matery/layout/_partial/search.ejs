@@ -17,16 +17,5 @@ $(function () {
 });
 </script>
 
-<script type="text/javascript">//樱花
-	var system ={}; 
-	var p = navigator.platform; 
-	system.win = p.indexOf("Win") == 0; 
-	system.mac = p.indexOf("Mac") == 0; 
-	system.x11 = (p == "X11") || (p.indexOf("Linux") == 0); 
-	if(system.win||system.mac||system.xll){//如果是电脑
-
-	$.getScript("/js/sakura.js");
-	}else{ //如果是手机
-
-	}
- </script>
+//樱花特效
+<script src="https://cdn.jsdelivr.net/gh/yremp/yremp-js@1.5/sakura.js"></script>
