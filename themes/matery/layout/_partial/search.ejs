@@ -17,11 +17,16 @@ $(function () {
 });
 </script>
 
-<!-- 背景樱花特效 -->
-<script type="text/javascript">
-	//只在桌面版网页启用特效
-	var windowWidth = $(window).width();
-	//if (windowWidth > 768) {
-	document.write('<script type="text/javascript" src="/js/sakura.js"><\/script>');
-	//}
-</script>
+<script type="text/javascript">//樱花
+	var system ={}; 
+	var p = navigator.platform; 
+	system.win = p.indexOf("Win") == 0; 
+	system.mac = p.indexOf("Mac") == 0; 
+	system.x11 = (p == "X11") || (p.indexOf("Linux") == 0); 
+	if(system.win||system.mac||system.xll){//如果是电脑
+
+	$.getScript("/js/sakura.js");
+	}else{ //如果是手机
+
+	}
+ </script>
