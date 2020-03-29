@@ -91,8 +91,8 @@ video:
   enable: true
   showTitle: true
   title: Preference for Basketball
-  url: https://lc-0OwJ6sYh.cn-e1.lcfile.com/6208c0e6643e7bcf94d0/yunYun_xiaoYan.mp4 # 必填
-  pic: https://lc-0OwJ6sYh.cn-e1.lcfile.com/9d3906c7d21e8dcf399f/yunYun.jpg
+  url: https://chen-xi.oss-cn-beijing.aliyuncs.com/video/%5B%E9%AB%98%E6%B8%85%201080P%5D%20%E8%AE%A9%E6%88%91%E6%9D%A5%E5%91%8A%E8%AF%89%E4%BD%A0%E4%BB%80%E4%B9%88%E5%8F%AB%E5%81%9A%E3%80%8C%E7%BB%9D%E6%9C%9B%E3%80%8D%EF%BC%81%EF%BC%81.flv # 必填
+  pic: https://chen-xi.oss-cn-beijing.aliyuncs.com/images/0.jpg
   thumbnails:
   height: # 如：400
   autoplay: true # 是否自动播放
