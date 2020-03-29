@@ -2,20 +2,20 @@
 	"name": "世界が终るまでは…",
 	"artist": "上杉升",
 	"url": "https://chen-xi.oss-cn-beijing.aliyuncs.com/music/WANDS%20-%20%E4%B8%96%E7%95%8C%E3%81%8C%E7%BB%88%E3%82%8B%E3%81%BE%E3%81%A7%E3%81%AF%E2%80%A6.mp3",
-	"cover": "http://img3.kuwo.cn/star/starheads/300/77/67/554544542.jpg"	
-}, {
-	"name": "煌めく瞬間に捕われて",
-	"artist": "MANISH",
-	"url": "http://nq01.sycdn.kuwo.cn/ca5a447dbe88718d9e508f379e0ccdaa/5e5f55e5/resource/n2/4/44/3646611945.mp3",
-	"cover": "http://p2.music.126.net/AXgj0N1gLre7wX_T5aJwnw==/5649290743583112.jpg?param=300x300"	
-}, {
-	"name": "オセンチな歩美",
-	"artist": "大野克夫",
-	"url": "https://sharefs.yun.kugou.com/202003041828/1af14d67254d9a057f23bff0dc967fc4/G109/M09/13/05/DYcBAFvi8zGAY3pNABZjh35awoU537.mp3",
-	"cover": "https://tse3-mm.cn.bing.net/th/id/OIP.QybM1qE4F59EYsRWaq42jAHaEo?w=257&h=160&c=7&o=5&pid=1.7"
+	"cover": "https://chen-xi.oss-cn-beijing.aliyuncs.com/images/slamDunk.jpg"	
 }, {
 	"name":  "「名探偵コナン」~メインテーマ",
 	"artist": "大野克夫",
-	"url": "https://sharefs.yun.kugou.com/202003041519/91d4919866edf16c0a6374b889a1bb4f/G146/M09/1F/08/cpQEAFvE1FmAcvsfACOPJBFHNaU484.mp3",
-	"cover": "https://tse2-mm.cn.bing.net/th/id/OIP.v1ohDOL92GShXx8q3L0keAHaEL?w=300&h=169&c=7&o=5&pid=1.7"
+	"url": "https://chen-xi.oss-cn-beijing.aliyuncs.com/music/%E5%A4%A7%E9%87%8E%E5%85%8B%E5%A4%AB%20-%20%E6%96%B0%E3%83%BB%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B3%E3%83%8A%E3%83%B3%20%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%86%E3%83%BC%E3%83%9E%20%28%E3%83%90%E3%83%A9%E3%83%BC%E3%83%89%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%29%20%282007%20Version%29.mp3",
+	"cover": "https://chen-xi.oss-cn-beijing.aliyuncs.com/images/keNan.jpg"
+}, {
+	"name": "Посвящение(奉献)",
+	"artist": "Vitas",
+	"url": "https://chen-xi.oss-cn-beijing.aliyuncs.com/music/Vitas%20-%20%D0%9F%D0%BE%D1%81%D0%B2%D1%8F%D1%89%D0%B5%D0%BD%D0%B8%D0%B5.flac",
+	"cover": "https://chen-xi.oss-cn-beijing.aliyuncs.com/images/vitas.jpg"	
+}, {
+	"name": "In Motion",
+	"artist": "Trent Reznor",
+	"url": "https://chen-xi.oss-cn-beijing.aliyuncs.com/music/Trent%20Reznor%2CAtticus%20Ross%20-%20In%20Motion.flac",
+	"cover": "https://chen-xi.oss-cn-beijing.aliyuncs.com/images/inMotion.jpg"
 }]
