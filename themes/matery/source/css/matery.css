@@ -34,7 +34,7 @@
 }
 
 body {
-    background-color: #34495e;
+    background-color: #0ae6c5;
     margin: 0;
     color: #34495e;
 }
@@ -139,7 +139,7 @@ code {
     top: 13px !important;
     font-family: Inconsolata, Monaco, Consolas, 'Courier New', Courier, monospace;
     font-size: 0.91rem;
-    color: #e96900;
+    color: #d1e00a;
     background-color: #f8f8f8;
     border-radius: 2px;
 }

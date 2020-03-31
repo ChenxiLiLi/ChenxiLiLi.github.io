@@ -4,7 +4,7 @@
 
 
 
-#### 在使用 Java SDK上传图片之前，需要做好几项准备：
+#### 在使用 Java SDK上传图片之前，需要做好几项准备
 
 1、上[阿里云]([https://www.aliyun.com](https://www.aliyun.com/))官网购买对象存储OSS相应的服务.
 
