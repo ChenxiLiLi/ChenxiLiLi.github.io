@@ -102,7 +102,7 @@ public class PaginationDTO<T> {
 
 
 
-#### 第三步：创建Controller来调用
+#### 第三步，创建Controller来调用
 
 ```java
 import com.chenxi.community.dto.PaginationDTO;
@@ -141,7 +141,7 @@ public class IndexController {
 
 
 
-#### 第四步：前端页面
+#### 第四步，前端页面
 
 ```html
 <!-- 分页核心代码 -->
@@ -182,7 +182,7 @@ public class IndexController {
 
 <img src="/images/page.PNG" style="zoom:75%;" />
 
-​	**结果分析：上图是第三页问题列表展示，用户点击'3'之后，首先数据会传到IndexController，数据为[page=3, pageSize=5]，然后通过QuestionService进行处理，包括问题查询，问题封装，异常处理等，然后返回一个PaginationDTO集合，再渲染到前端的页面，最终展示出来。**
+​		**结果分析：上图是第三页问题列表展示，用户点击'3'之后，首先数据会传到IndexController，数据为[page=3, pageSize=5]，然后通过QuestionService进行处理，包括问题查询，问题封装，异常处理等，然后返回一个PaginationDTO集合，再渲染到前端的页面，最终展示出来。**
 
 
 
