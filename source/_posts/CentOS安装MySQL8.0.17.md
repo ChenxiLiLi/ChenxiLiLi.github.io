@@ -2,8 +2,6 @@
 
 ​			**由于项目部署需要，我在阿里云云服务器上安装`MySQL`，并进行相应的配置。操作系统是`CentOS`，安装的`MySQL`版本为8.0.17，由于8.0版本较旧版本改动了些许内容，所以存在一些坑。**
 
-
-
 #### 第一步：检查本机是否已安装了，如果有，需要先删除
 
 ```bash
@@ -67,7 +65,7 @@
 
 #### 高版本修改密码需要注意的问题
 
-			##### 		`MySQL 8.0`后使用alter来修改用户密码，可以通过上面查看用户信息的命令知道，在`MySQL 8.0`以后的加密方式为caching_sha2_password，所以如果在一开始就使用alter设置密码的话不会出现问题，但是如果使用`update`修改密码，之后使用alter修改密码会报`Operation ALTER USER failed for 'root'@'localhost'`，因为此时root用户的authentication_string字段已经被设置了值，此时需要先清空authentication_string字段，再进行密码修改操作。
+##### 		`MySQL 8.0`后使用alter来修改用户密码，可以通过上面查看用户信息的命令知道，在`MySQL 8.0`以后的加密方式为`caching_sha2_password`，所以如果在一开始就使用alter设置密码的话不会出现问题，但是如果使用`update`修改密码，之后使用alter修改密码会报`Operation ALTER USER failed for 'root'@'localhost'`，因为此时root用户的`authentication_string`字段已经被设置了值，此时需要先清空`authentication_string`字段，再进行密码修改操作。
 
 ```bash
 //使用了update设置密码
